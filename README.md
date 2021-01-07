@@ -1,6 +1,8 @@
 ## A Data Story from Reddit
 
-In this repository, I present an analysis of social media behavior on Reddit career advice forums after the start of the coronavirus pandemic in the United States. Using the tools of data science and descriptive statistics, I construct an easy-to-interpret narrative on the change in activity of these forums after March 2020. [Link to Analysis]()
+In this repository, I present an analysis of social media behavior on Reddit career advice forums after the start of the coronavirus pandemic in the United States. 
+
+Using the tools of data science and descriptive statistics, I construct an easy-to-interpret narrative on the change in activity of these forums after March 2020. [Link to Analysis](https://github.com/delpinolisette/reddit_data_science_analysis/blob/master/data_story_presentation/data_story.md)
 
 Lisette del Pino
   
